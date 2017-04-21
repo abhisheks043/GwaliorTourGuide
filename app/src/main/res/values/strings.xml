@@ -1,0 +1,170 @@
+<resources>
+    <string name="app_name">Gwalior</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+
+    <string name="home">Home</string>
+    <string name="mon">Monuments</string>
+    <string name="mus">Museums</string>
+    <string name="hot">Hotels</string>
+    <string name="eat">Eating Joints</string>
+    <string name="pub">Pubs</string>
+    <string name="rev">Review Us</string>
+
+
+    <string-array name="mons">
+        <item>Gwalior Fort</item>
+        <item>Man Singh Palace</item>
+        <item>Gujari Mahal</item>
+        <item>Surya Mandir</item>
+        <item>Jai Vilas Palace</item>
+        <item>Sas Bahu Temple</item>
+        <item>Teli ka Mandir</item>
+    </string-array>
+
+    <string-array name="mus">
+        <item>Gujari Mahal</item>
+        <item>Jai Vilas Palace Museum</item>
+        <item>Archaeological Museum</item>
+        <item>Scindia Museum</item>
+    </string-array>
+
+    <string-array name="hot">
+        <item>Hotel Sina Manor</item>
+        <item>The Central Park</item>
+        <item>Hotel Landmark</item>
+        <item>Usha Kiran Palace</item>
+        <item>Hotel Adityaz</item>
+        <item>Hotel Gwalior Regency</item>
+        <item>Hotel Shelter</item>
+    </string-array>
+
+    <string-array name="eat">
+        <item>Kwality Restaurant</item>
+        <item>The Mansingh</item>
+        <item>Alfanzo</item>
+        <item>Param Food Complex</item>
+        <item>Moti Mahal Deluxe</item>
+        <item>Indian Coffee House</item>
+        <item>Sagar Ratna</item>
+        <item>The Yellow Chilli</item>
+        <item>Chawla Chicken</item>
+    </string-array>
+
+    <string-array name="pub">
+        <item>10 Downing Street</item>
+        <item>Jiwaji Club</item>
+        <item>BLU Lounge</item>
+    </string-array>
+
+
+    <string-array name="mons_body">
+        <item>Gwalior Fort is an 8th century hill fort and has a defensive structure and two main palaces - 
+            Gujari Mahal and Man Mandir. Gujari Mahal was built for Queen Mrignayani, a lower caste queen 
+            and hence the palace lies slightly far from the main Man Mandir palace built by King Mansingh Tomar. 
+            It changed hands a few times over the years and has many other palaces, temples and water tanks. 
+            The fort is irregular in profile due to the undulating ground below, and there are two gates. 
+            A number of Buddhist, Jain and Hindu temples lie inside the fort.</item>
+        <item>Man Mandir Palace lies within the Gwalior Fort and was built by Maharaja Man Singh of the Tomar dynasty.
+            There has been significant damage to the palace over the centuries but some elements still remain to speak
+            of the grandiose palace of yore. The palace walls have a spectacular frieze of ducks wading in the water but
+            the rooms that once served as music halls or durbar halls are largely dilapidated now. An underfround dungeon
+            in the palace was used by Aurangzeb to have his brother Murad incarcerated and executed. Other important parts
+            of the palace include Jauhar Kund, Jhulagar, Kesar Kunda and Phansi Ghar.</item>
+        <item>Gujari Mahal, Gwalior has one of the best exteriors and utmost care has been taken for its preservation.
+            The palace now has an archeological museum that has a large collection of Hindu and Jain sculptures,
+            archeological pieces from1st and the 2nd century B.C, copies of Bagh cave frescoes and Terracotta items.
+            The statue of Salbhanjika, a marvelous piece in miniature is in the custody of the museum’s curator and can
+            be seen on request. Thee is also a school within the Gujari Mahal, Madhya Pradesh premises which was meant
+            for the British soldiers. Now it is run by the Scindia’s as is regarded as one of the best schools in the country.</item>
+        <item>The Surya Mandir, Gwalior or the Sun Temple was constructed in 1988 by G.D Birla, the famous industrialist of India.
+            It is influenced by the famous Sun Temple at Konark in Orissa. The city of Gwalior dates back to the 8th century and
+            has been witness to some of the greatest Rajput clans like the Prathiharas, the Kachwahs and the Tomars. Stories go around
+            that Maharaja Suraj Sen of the Kachwaha dynesty was down with a deadly disease and was cured by the hermit-saint Gwalipa.
+            It was out of gratitude to him that Suraj Sen built the City of Gwalior.
+            The Surya Mandir, Madhya Pradesh is one of the new entrants into the list of the places of interest in Gwalior.
+            The temple is one of the architectural wonders and has a beautiful sculpture of Lord Surya in the temple premises.
+            Surya Temple, Gwalior has captivating exteriors which has been built of red sand stone.The temple interior has white
+            marble and this adds to the exotic beauty of this marvelous creation.</item>
+        <item>The collection at Jai Vilas Palace Museum includes of largest pair of chandeliers in the world, silver carriage,
+            oil painting by Raja Ravi Verma, Malabar furniture, Malabar furniture, crystal furniture, palki (Palanquin), pooja ghar,
+            Jacobean furniture, Napolean table, miniature paintings, lithograph, royal old photograph, silver train, Chinese pot,
+            clothes and footwear of the royalty, Jain sculpture, Lord Vishnu bronze statue, Balgopal bronze statue, weapons and more.
+            One of the most opulent buildings built then, the museum showcases a collection of objects, artifacts etc belonging in the
+            19th and 20th century, focusing on art and craft. The collection at the museum has been brought from all around the world.
+            The palace museum also consists of swords that date back to the times of Mughal Emperors Aurangzeb and Shah Jahan. Along
+            with the swords, there is the original shield of Jhansi Ki Rani, Laxmi Bai.</item>
+        <item>Sas Bahu temple in Gwalior is famous temple, is dedicated to Lord Vishnu by the King Mahipala. Lord Vishnu is also
+            known as Sahastrabahu,the one with many hands. But gradually the name changed into Sas Bahu Temple, perhaps by
+            mispronunciation, or misinterpretation. The temple has rare quality of architectural skill displayed in it,
+            it has all the qualities of a fabulous worship. There are two temples, which are conjointly known as the Sas Bahu Temple
+            . One of the temples is bigger than the other, and perhaps for that reason, one is considered as the Mother-in
+            Law whiles the other as the Daughter-in-Law. Graceful figures are in scripted on the wall of the temple and there are
+            pillars that are also display architectural skills.</item>
+        <item>Teli Ka Mandir, Madhya Pradesh is a towering structure of about 100 feet. It is has unique architectural style and
+            resembles a Prathihara Vishnu temple.The shape of the roof or Shikhara can be easily discerned as Dravidian and the
+            embellishments are distintively Indo Aryan. The decorations are of the Nagara Style, a well known art form of Northern
+            India. The complex of Teli Ka Mandir, Gwalior is filled with figures of river goddesses, coiled serpents, amorous couples
+            and a flying Garuda, the vehicle of Lord Vishnu.</item>
+    </string-array>
+    
+    <string-array name="mons_tims">
+        <item>Open All Week (08:00 AM - 06:00 PM)</item>
+        <item>Open All Week (08:00 AM - 07:00 PM)</item>
+        <item>Open All Week (08:00 AM - 07:00 PM)</item>
+        <item>Open All Week (08:00 AM - 07:00 PM)</item>
+        <item>Closed On Monday (10:00 AM - 05:00 PM)</item>
+        <item>Open All Week (08:00 AM - 06:00 PM)</item>
+        <item>Open All Week (08:00 AM - 06:00 PM)</item>
+    </string-array>
+
+    <string-array name="mons_fee">
+        <item>Entrance Fee \n
+            Indians: Rs. 75 \n
+            Others: US $ 5 or INR 250 \n \n
+            Camera Fee \n
+            None
+        </item>
+        <item>Entrance Fee \n
+            Indians: Rs. 75 \n
+            Others: US $ 5 or INR 250 \n \n
+            Camera Fee \n
+            None
+        </item>
+        <item>Entrance Fee \n
+            Indians: Rs. 75 \n
+            Others: US $ 5 or INR 250 \n \n
+            Camera Fee \n
+            None
+        </item>
+        <item>Entrance Fee \n
+            Indians: Rs. 75 \n
+            Others: US $ 5 or INR 250 \n \n
+            Camera Fee \n
+            None
+        </item>
+        <item>Entrance Fee \n
+            Indians: Rs. 75 \n
+            Others: US $ 5 or INR 250 \n \n
+            Camera Fee \n
+            None
+        </item>
+        <item>Entrance Fee \n
+            Indians: Rs. 75 \n
+            Others: US $ 5 or INR 250 \n \n
+            Camera Fee \n
+            None
+        </item>
+        <item>Entrance Fee \n
+            Indians: Rs. 75 \n
+            Others: US $ 5 or INR 250 \n \n
+            Camera Fee \n
+            None
+        </item>
+    </string-array>
+
+</resources>

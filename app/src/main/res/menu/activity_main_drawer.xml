@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:title="@string/home"></item>
+
+    <item
+        android:id="@+id/monuments"
+        android:title="@string/mon"></item>
+
+    <item
+        android:id="@+id/museums"
+        android:title="@string/mus"></item>
+
+    <item
+        android:id="@+id/hotels"
+        android:title="@string/hot"></item>
+
+    <item
+        android:id="@+id/eating_joints"
+        android:title="@string/eat"></item>
+
+    <item
+        android:id="@+id/pubs"
+        android:title="@string/pub"></item>
+
+    <item
+        android:id="@+id/review"
+        android:title="@string/rev"></item>
+
+</menu>
